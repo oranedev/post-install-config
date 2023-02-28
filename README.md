@@ -30,6 +30,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+- Log in to the osticket administrative panel using the administrative credentials set during installation.
+- Navigate to the "Settings" section and configure the general settings, such as the default timezone, default department, and default email address.
+- Set up email fetching by navigating to the "Email" section and configuring the email settings. osticket supports several email protocols such as IMAP, POP3, and SMTP.
+- Customize the help topics, forms, and templates by navigating to the "Manage" section and selecting the appropriate option. This allows you to tailor the osticket system to your specific needs.
+- Configure the ticket autoresponder by navigating to the "Email Templates" section and setting up the appropriate response for new tickets, ticket updates, and ticket closures.
+- Set up roles and permissions for agents and staff by navigating to the "Staff" section and configuring the appropriate settings. This allows you to control who can perform specific actions within the system.
+- Enable or disable plugins and extensions by navigating to the "Plugins" section and selecting the appropriate option.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
