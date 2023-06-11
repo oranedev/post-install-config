@@ -38,25 +38,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Set up roles and permissions for agents and staff by navigating to the "Staff" section and configuring the appropriate settings. This allows you to control who can perform specific actions within the system.
 - Enable or disable plugins and extensions by navigating to the "Plugins" section and selecting the appropriate option.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://docs.osticket.com/en/latest/_images/admin_manage_plugins.png" height="80%" width="80%" alt="New Plugin"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With the increasing trend of remote work, our tech startup is faced with the critical decision of selecting an email protocol that will effectively support seamless communication and collaboration across remote teams. This decision carries significant weight as it directly impacts productivity, security, and overall efficiency. However, amidst a sea of options, each with its own advantages and challenges, the process of making this selection becomes a daunting task.q
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://docs.osticket.com/en/latest/_images/admin_emails_emails_mailbox_setting.png" height="80%" width="80%" alt="Email Protocol Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Option 1: Microsoft Exchange
+
+Option 2: Google Workspace
+
+
+Option 3: Open-source Solutions
+
+</p>
+<br />
+
+<p>
+<img src="https://docs.osticket.com/en/latest/_images/oauth44_microsoft_inst.png" height="80%" width="80%" alt="Authorization"/>
+</p>
+<p>
+Integrating osTicket with existing tools and workflows, such as email notifications or password management software, will facilitate a seamless transition from using messenger apps and emails to centralize tasks and create measurable results in design operations.
 </p>
 <br />
